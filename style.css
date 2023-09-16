@@ -1,0 +1,18 @@
+.social-button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    border: 2px solid #8c0a0a;
+    border-radius: 8px;
+    background-color: transparent;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.social-button:hover {
+    background-color: #701414;
+    border-color: #701414;
+    color: white;
+}
